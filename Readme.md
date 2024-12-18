@@ -1,5 +1,6 @@
 <h1 align="center">Projeto URL Shortener</h1>
 
+## Discrição
 Este projeto consiste em um encurtador de URL desenvolvido durante a **Imersão Java com AWS** da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. Utilizamos as ferramentas da **AWS Lambda**, **S3** e **API Gateway** para construir uma aplicação serverless que permite encurtar URLs e redirecionar usuários para os links encurtados, podendo configurar um tempo para expiração do link.
 
 ## Tecnologias Utilizadas
